@@ -2,6 +2,20 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "oops",
+      "request": "launch",
+      "mainClass": "oops",
+      "projectName": "OOPS_a3a7cfbb"
+    },
+    {
+      "type": "java",
+      "name": "Oops",
+      "request": "launch",
+      "mainClass": "Oops",
+      "projectName": "OOPS_a3a7cfbb"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
