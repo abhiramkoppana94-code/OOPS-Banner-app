@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Uc1",
+      "request": "launch",
+      "mainClass": "Uc1",
+      "projectName": "OOPS_a3a7cfbb"
+    },
+    {
+      "type": "java",
+      "name": "oops1",
+      "request": "launch",
+      "mainClass": "oops1",
+      "projectName": "OOPS_a3a7cfbb"
+    },
+    {
+      "type": "java",
       "name": "oops",
       "request": "launch",
       "mainClass": "oops",
