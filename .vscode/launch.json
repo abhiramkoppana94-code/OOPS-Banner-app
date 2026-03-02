@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Uc3",
+      "request": "launch",
+      "mainClass": "Uc3",
+      "projectName": "OOPS_a3a7cfbb"
+    },
+    {
+      "type": "java",
       "name": "Uc1",
       "request": "launch",
       "mainClass": "Uc1",
